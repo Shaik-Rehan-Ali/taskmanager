@@ -2,5 +2,5 @@
   "name": "Task Manager",
   "description": "Activity and task manager with date scheduling, completion toggles, notes, categories, and full task editing support.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
